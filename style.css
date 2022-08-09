@@ -30,7 +30,7 @@ body {
 .cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: 400;
-    font-size: .8em
+    font-size: .8em;
 }
 
 #container {
@@ -38,18 +38,18 @@ body {
     padding: 0;
     text-align: left;
     border: 1px solid #ddd;
-    margin: 0 auto
+    margin: 0 auto;
 }
 .image-logo{
     width: 50px;
 }
 
 #container h1 {
-    font-size: 20px
+    font-size: 20px;
 }
 
 #post {
-    padding: 1em
+    padding: 1em;
 }
 footer{
     height: 50px;
