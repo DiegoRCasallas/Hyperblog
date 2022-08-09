@@ -6,24 +6,28 @@
 body {
     color: #333;
     text-align: center;
-
-    font-family: Jetbrains mono;
-    font-family: Arial
+    font-family: 'Jetbrains mono';
     font-size: 16px;
     margin: 0;
-    padding: 0
+    padding: 0;
 }
 
-#cabecera {
+.cabecera {
+    display: flex;
     background: #33a;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .5);
     color: #fff;
     font-weight: 700;
     margin: 0;
-    padding: .5em
+    padding: .5em;
+    justify-content: center;
+    align-items: center;
+    
+
 }
 
-#cabecera #tagline {
+
+.cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: 400;
     font-size: .8em
@@ -35,6 +39,9 @@ body {
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto
+}
+.image-logo{
+    width: 50px;
 }
 
 #container h1 {
