@@ -5,3 +5,5 @@ Diego tiene 25años y nació en Colombia
 mago es anonimo y quiere aportar a los
 
 proyectos que hace Diego.
+
+Anita es una persona que contribuye a este proyecto open source y nació en Internet
