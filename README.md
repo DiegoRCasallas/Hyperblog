@@ -3,4 +3,6 @@
  
  * Creado por los perritos de una casita que me lo pela
  * incluye ejemplos en windows linux o mac
+ * Disponible para todas las edades
+ * Tiene un diseño atractivo para todos
  
